@@ -37,3 +37,23 @@ Key Takeaways:
 🌟 Prepared to tackle more complex web development projects with confidence!
 
 => Here you can check my projects https://www.linkedin.com/posts/ashutoshsahu7_codealpha-codealphainternship-linkedin-activity-7168874389709504512-Y3Kk?utm_source=share&utm_medium=member_desktop
+
+
+
+Task-3=
+Social media Dashboard (Linked In)
+
+
+*) Social Media Dashboard for LinkedIn using HTML, CSS, and JavaScript.
+
+🚀 Key Takeaways:
+
+Advanced proficiency in web development essentials.
+
+Developed a sleek and functional LinkedIn Dashboard.
+
+Strengthened skills in responsive design and interactivity.
+
+Explored dynamic features with JavaScript integration.
+
+Eager to tackle more ambitious web projects! #CodeAlpha #WebDevelopment 
