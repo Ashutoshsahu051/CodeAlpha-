@@ -57,3 +57,5 @@ Strengthened skills in responsive design and interactivity.
 Explored dynamic features with JavaScript integration.
 
 Eager to tackle more ambitious web projects! #CodeAlpha #WebDevelopment 
+
+=> Here you can check my projects https://www.linkedin.com/posts/ashutoshsahu7_codealpha-codealphainternship-linkedinfamily-activity-7169034495172489218-vDgD?utm_source=share&utm_medium=member_desktop
